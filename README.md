@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello! ‧₊˚✩彡.
 
-<!--
-**actuallyeunha/actuallyeunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❝Imagine actually commiting to repositories hah!❞ <br>
+<br>
+ʚ I swear I code, sometimes... <br>
+ʚ ...in python... <br>
+ʚ ...and c# in the future... <br>
+ʚ ...probably. <br>
+<br>
+ʚ ^ Genshin modding suppremacy(?) <br>
+<br>
+Here, have an (almost) accurate picture of what I currently do on a daily basis: <br>
+![animegirlholdingcsharpbook](https://i.imgur.com/qk62Cum.png) <br>
+(taken from ![Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books))
