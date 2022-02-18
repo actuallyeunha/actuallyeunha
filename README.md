@@ -10,5 +10,5 @@
 ʚ ^ Genshin modding suppremacy(?) <br>
 <br>
 Here, have an (almost) accurate picture of what I currently do on a daily basis: <br>
-![animegirlholdingcsharpbook](https://i.imgur.com/qk62Cum.png) <br>
+![](https://github.com/actuallyeunha/actuallyeunha/blob/main/rsz_chisaki_tapris.png?raw=true) <br>
 (taken from ![Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books))
