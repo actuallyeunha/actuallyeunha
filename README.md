@@ -4,10 +4,10 @@
 <br>
 ʚ I swear I code, sometimes... <br>
 ʚ ...in python... <br>
-ʚ ...and c# in the future... <br>
+ʚ ...and javascript in the future... <br>
 ʚ ...probably. <br>
 <br>
-ʚ Genshin modding suppremacy(?) ↑ <br>
+ʚ BobaPS supremacy <br>
 <br>
 Here, have an (almost) accurate picture of what I currently do on a daily basis:
 <br>
