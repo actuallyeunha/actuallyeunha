@@ -7,5 +7,3 @@
 ʚ ...and javascript in the future... <br>
 ʚ ...probably. <br>
 <br>
-ʚ BobaPS supremacy <br>
-<br>
