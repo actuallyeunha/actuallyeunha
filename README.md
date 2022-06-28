@@ -4,6 +4,5 @@
 <br>
 ʚ I swear I code, sometimes... <br>
 ʚ ...in python... <br>
-ʚ ...and javascript in the future... <br>
-ʚ ...probably. <br>
+ʚ ...and javascript (typescript)... <br>
 <br>
